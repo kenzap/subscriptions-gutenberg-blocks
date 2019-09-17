@@ -1,0 +1,18 @@
+{
+  "name": "kenzap-testimonials-list-block-cgb-guten-block",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "cgb-scripts start",
+    "build": "cgb-scripts build",
+    "eject": "cgb-scripts eject"
+  },
+  "dependencies": {
+    "cgb-scripts": "^1.17.0",
+    "lodash": "^4.17.15",
+    "lodash.mergewith": "^4.6.2",
+    "mem": "^5.1.1",
+    "mixin-deep": "^2.0.1",
+    "set-value": "^3.0.1"
+  }
+}
