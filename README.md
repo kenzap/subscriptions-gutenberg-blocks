@@ -4,7 +4,7 @@ Create beautiful newsletter section on your website.
 To be used with WordPress Gutenberg.
 
 
-![Create beatiful newsletter subscription section with Gutenberg](https://kenzap.com/website/img/newsletter-1.png)
+![Create beatiful newsletter subscription section with Gutenberg](https://cdn.kenzap.com/github/img/newsletter-1.png)
 
 <b>Block is easy customizable:</b>
 
